@@ -1,0 +1,5 @@
+/* TEAM */
+	Founder: Michael Vorburger
+	Contact: mike [at] vorburger.ch
+	Twitter: @vorburger
+	From: Switzerland
