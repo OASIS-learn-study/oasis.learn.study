@@ -18,7 +18,7 @@ We are very open to welcome new contributors!  Configuration is code.  Minecraft
 
 Minecraft is a commercial game originally by Mojang, now Microsoft.
 
-This Minecraft server runs on code from a lot of open source (FLOSS) projects.
+This Minecraft server [runs on code from a lot of open source (FLOSS) projects](sources.md).
 
 You need a valid Minecraft PC Java Edition single user license to play with us here.
 

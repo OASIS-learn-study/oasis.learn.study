@@ -9,4 +9,4 @@ Connect your Minecraft (PC Java Edition 1.12.2) to:
 
 # More?
 
-[News](news.md) | [FAQ](faq.md) | [DevOps](devops.md)
+[News](news.md) | [FAQ](faq.md) | [DevOps](devops.md) | [Sources](sources.md)
