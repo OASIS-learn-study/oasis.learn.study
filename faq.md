@@ -4,9 +4,11 @@
 
 Humans volunteer, server machines do not.
 
-We are currently thinking about how to pay for our hosting costs to you let play.
+At this time, we are running this hosted on a Red Hat employee account on Openshift.com Online.
 
-Sponsorship most welcome!
+We are currently thinking about how to pay for our hosting costs to you let play more.
+
+Sponsorship discussions most welcome!
 
 
 ## Open Community

@@ -4,6 +4,7 @@
 
 * [minecraft-storeys-maker](https://github.com/vorburger/minecraft-storeys-maker)
 * [vorburger/s2i-minecraft-server](https://github.com/vorburger/s2i-minecraft-server)
+* [OASIS-learn-study](https://github.com/OASIS-learn-study)
 
 
 ## Projects which we are grateful users of
