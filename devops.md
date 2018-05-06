@@ -6,6 +6,11 @@ We are currently running a simple single instance in OpenShift.
 
 We are looking into expanding this to multiple dynamically started and stopped Pods routed through a bungee proxy.
 
+## Deployment
+
+We continously deploy (CI/CD) the master branches of our main repos to our live Minecraft server. 
+
+With great power comes great responsability! ;-)
 
 ## Worlds
 
