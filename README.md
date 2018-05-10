@@ -7,6 +7,8 @@ Connect your Minecraft (PC Java Edition 1.12.2) to:
 
     oasis.learn.study
 
+You can *chat* via [our Discord server here](https://discord.gg/NPbutxm).
+
 # MAKE
 
 Type `/make` in the Minecraft chat and you get a link to scratchx.org to make your own plugin with blocks!
