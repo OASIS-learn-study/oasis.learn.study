@@ -1,4 +1,5 @@
 
+* 2018.05.11 added WorldEdit and VoxelSniper
 * 2018.05.10 added Discord integration
 * 2018.05.09 added permissions mod
 * 2018.05.05 switched hosting provider
