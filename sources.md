@@ -5,7 +5,7 @@
 * [minecraft-storeys-maker](https://github.com/vorburger/minecraft-storeys-maker)
 * [vorburger/s2i-minecraft-server](https://github.com/vorburger/s2i-minecraft-server)
 * [OASIS-learn-study](https://github.com/OASIS-learn-study)
-
+* [source-sync-maven-plugin](https://github.com/edewit/source-sync-maven-plugin)
 
 ## Projects which we are grateful users of
 
