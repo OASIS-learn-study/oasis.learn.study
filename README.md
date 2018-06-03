@@ -13,6 +13,7 @@ You can *chat* via [our Discord server here](https://discord.gg/NPbutxm).
 
 Type `/make` in the Minecraft chat and you get a link to scratchx.org to make your own plugin with blocks!
 
+[![YouTube videos](images/youtube.png)](https://www.youtube.com/playlist?list=PL7PA3zq_6Oqce-C2MhAK4FWb98OTFVrQo "Videos playlist")
 
 # More?
 
