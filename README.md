@@ -1,3 +1,4 @@
+<img src="https://github.com/vorburger/minecraft-storeys-maker/raw/master/logo/oasis.learn.study-Minecraft-Scratch-HighRes.png" width="230" align="right"/> 
 
 # Play!
 
