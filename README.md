@@ -16,7 +16,7 @@
 <meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
-<img src="https://github.com/vorburger/minecraft-storeys-maker/raw/master/logo/oasis.learn.study-Minecraft-Scratch-HighRes.png" width="230" align="right"/> 
+<img src="https://github.com/vorburger/minecraft-storeys-maker/raw/master/logo/oasis.learn.study-Minecraft-Scratch-HighRes.png" width="230" align="right"/>
 
 # Play!
 
@@ -26,7 +26,7 @@ Connect your Minecraft (PC Java Edition 1.12.2) to:
 
     oasis.learn.study
 
-You can *chat* via [our Discord server here](https://discord.gg/NPbutxm).
+You can *chat* via [our Discord server](https://discord.gg/NPbutxm).
 
 # MAKE
 
