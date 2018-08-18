@@ -38,6 +38,8 @@ Type `/make` in the Minecraft chat and you get a link to Scratch to make your ow
 
 [News](news.md) | [FAQ](faq.md) | [Play](users.md) | [Ops](ops.md) | [DevOps](devops.md) | [Sources](sources.md)
 
+See also http://www.vorburger.ch/kids-edutainment-links/ for more.
+
 <a href="https://www.openshift.com/" title="Powered by OpenShift Online">
   <img alt="Powered by OpenShift Online" src="https://www.openshift.com/images/logos/powered_by_openshift_reverse.png">
 </a>
