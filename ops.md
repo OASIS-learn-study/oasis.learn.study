@@ -18,11 +18,18 @@ do several times, until reaching the right level; currently:
 * default: forced to Adventure mode (not Creative)
 * verified: /hat, /nick, /rules, /message - but still Adventure
 * assistant: Creative!  Also /teleport, /back, /warp, /ignite.
-* fbi: /jail
+* fbi: /jail & place Command Blocks
 * boss: LP, /fly, /ban, /kick, /freezeplayer, /gamemode AND -surtout- /world
 
 These groups may be changed in the future.
 
+To debug missing permissions (and then add), use:
+
+    /lp verbose on <YOU>
+	 /lp check <PLAYER> minecraft.command.tp
+    /lp editor
+    /lp verbose off <YOU>
+    
 
 # Worlds
 
