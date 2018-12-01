@@ -26,7 +26,7 @@ These groups may be changed in the future.
 To debug missing permissions (and then add), use:
 
     /lp verbose on <YOU>
-	 /lp check <PLAYER> minecraft.command.tp
+    /lp check <PLAYER> minecraft.command.tp
     /lp editor
     /lp verbose off <YOU>
     
@@ -47,6 +47,8 @@ This is how to create new ones:
     /world create -g minecraft:default_1_1 --gm survival --di minecraft:easy survive
     /world create -g flat --gm creative --di peaceful rhjom
     /world create -g flat --gm adventure --di peaceful lobby
+    /world setspawn
+    /world sethardcore | setdifficulty | sethardcore
 
 This is how to unload and delete no longer used worlds:
 
