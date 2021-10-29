@@ -1,4 +1,6 @@
 
+* 2021.11.xx [Resurrection](https://github.com/OASIS-learn-study/minecraft-storeys-maker/issues/259)
+* 2019.06 or thereabouts - the hosted Minecraft server went offline
 * 2018.10.18 presented at [Basel One](http://baselone.ch) and _survey showed talk was ranked with the highest scoring!_
 * 2018.09.11 [presented at Red Hat Forum Switzerland 2018](https://www.redhat.com/en/events/forum-switzerland)
 * 2018.08.18 [presented at DevConf.US (video)](https://www.youtube.com/watch?v=9zKLtX5IVkE)
