@@ -16,7 +16,7 @@
 <meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
-<img src="https://github.com/vorburger/minecraft-storeys-maker/raw/master/logo/oasis.learn.study-Minecraft-Scratch-HighRes.png" width="230" align="right"/>
+<img src="/images/oasis.learn.study-Minecraft-Scratch-HighRes.png" width="230" align="right"/>
 
 **_NB our server is currently unavailable, [watch this issue](https://github.com/OASIS-learn-study/minecraft-storeys-maker/issues/259) for progress to bring it back!_**
 
