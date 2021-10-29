@@ -18,6 +18,8 @@
 
 <img src="https://github.com/vorburger/minecraft-storeys-maker/raw/master/logo/oasis.learn.study-Minecraft-Scratch-HighRes.png" width="230" align="right"/>
 
+**_NB our server is currently unavailable, [watch this issue](https://github.com/OASIS-learn-study/minecraft-storeys-maker/issues/259) for progress to bring it back!_**
+
 # Play!
 
 __OASIS.learn.study__ is an *OPEN* Minecraft server community.
@@ -39,7 +41,3 @@ Type `/make` in the Minecraft chat and you get a link to Scratch to make your ow
 [News](news.md) | [FAQ](faq.md) | [Play](users.md) | [Ops](ops.md) | [DevOps](devops.md) | [Sources](sources.md)
 
 See also [more cool links for kids](http://www.vorburger.ch/kids-edutainment-links/) for more.
-
-<a href="https://www.openshift.com/" title="Powered by OpenShift Online">
-  <img alt="Powered by OpenShift Online" src="https://www.openshift.com/images/logos/powered_by_openshift_reverse.png">
-</a>
